@@ -73,6 +73,4 @@ To run the Streamlit demo locally:
 streamlit run demo/interface.py
 ```
 
-## Acknowledgement
 
-- Inspired by [RAG Fusion](https://github.com/Raudaschl/rag-fusion) 
